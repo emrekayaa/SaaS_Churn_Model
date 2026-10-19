@@ -1,2 +1,13 @@
+# Environment
+venv/
+__pycache__/
+
+# Data (not committed)
 data/raw/
 data/processed/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# macOS
+.DS_Store
